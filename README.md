@@ -23,7 +23,5 @@
     - Flexbox
     - Animações 
 - JavaScript
-    - Introdução ao JavaScript
     - Manipulação do DOM
-    - Introdução ao Firebase
     - Integração com o Firebase
